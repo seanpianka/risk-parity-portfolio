@@ -1,0 +1,7 @@
+equities:
+  - SPY
+commodities:
+  - GLD
+  - PDBC
+bonds:
+  - BND
